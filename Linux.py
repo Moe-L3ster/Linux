@@ -1,1 +1,0 @@
-print("Lula vc é um projeto de Deus.")
